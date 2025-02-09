@@ -1,5 +1,5 @@
 ---
-title: La Vallée de Munster, le Valhalla Caché
+title: Le Valhalla Caché
 date: 2025-02-09T08:33:31.337Z
 image: /images/uploads/c38f34bc-4e55-4dc6-afed-9e78f59f3b23.png
 ---
