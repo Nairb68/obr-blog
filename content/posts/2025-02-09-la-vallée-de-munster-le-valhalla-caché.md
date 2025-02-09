@@ -1,7 +1,7 @@
 ---
 title: La Vallée de Munster, le Valhalla Caché
 date: 2025-02-09T08:33:31.337Z
-image: https://files.oaiusercontent.com/file-H2g4nJgzE3yNjbdWcNDwSh?se=2025-02-09T08%3A40%3A45Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dfc16263e-a08d-4e76-95de-c4ca897d6b22.webp&sig=lroYShMnZzLUywYLjsw6bx32/6sJJtTXgZZoLl0pCz8%3D
+image: /images/uploads/c38f34bc-4e55-4dc6-afed-9e78f59f3b23.png
 ---
 Dans un recoin méconnu de la France, loin des froids légendaires de Scandinavie, se cacherait le véritable Valhalla… et non, pas celui qui se trouve derrière une porte en acier forgé, mais bien au cœur de la pittoresque Vallée de Munster !
 
