@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: "votre-utilisateur/votre-repo"  # Remplacez par votre nom d'utilisateur et le nom de votre dépôt
+  repo: "Nairb68/obr-blog"  # Remplacez par votre nom d'utilisateur et le nom de votre dépôt
   branch: main                          # Ou "master" si c'est le nom de votre branche principale
 media_folder: "images/uploads"          # Dossier pour stocker vos images
 public_folder: "/images/uploads"
